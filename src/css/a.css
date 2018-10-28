@@ -1,0 +1,6 @@
+a:link, a:visited {
+    text-decoration: none;
+    color: #900b09;
+    background: transparent;
+    border-bottom: 1px solid #900b09;
+}
